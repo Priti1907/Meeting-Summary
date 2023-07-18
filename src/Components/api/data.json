@@ -1,0 +1,19 @@
+{
+    "users": [
+      {
+        "empno": "SAMPLE5599",
+        "empname": "Mark",
+        "role": "Otto"
+      },
+      {
+        "empno": "SAMPLE1235",
+        "empname": "Jacob",
+        "role": "Thomton"
+      },
+      {
+        "empno": "SAMPLE9292",
+        "empname": "Larry the Bird",
+        "role": "@Twitter"
+      }
+    ]
+}

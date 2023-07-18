@@ -1,0 +1,26 @@
+.App{
+  width: 100vw;
+  background-color: rgb(221, 221, 226);
+}
+body{
+ float: left;
+ 
+}
+.card-title{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-weight:bold;
+}
+.btn-primary {
+  background-color: blueviolet;
+}
+.btn-default 
+{
+ background-color: #68889E;
+ color:#FFF;
+ border-color: #2F3E48;
+ 
+}
+.sidebar{
+  text-decoration: none;
+}
